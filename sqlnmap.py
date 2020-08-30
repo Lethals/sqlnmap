@@ -2,10 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import os
-
-os.system("pkg install git -y")
-os.system("pkg install figlet -y")
-os.system("pkg install nmap -y")
 os.system("clear")
 os.system("figlet SQL INJECTION")
 
